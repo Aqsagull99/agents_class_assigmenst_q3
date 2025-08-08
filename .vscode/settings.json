@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Career Mentor Agent/career_",
+        "./Career Mentor Agent/career_"
+    ]
+}
